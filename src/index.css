@@ -1,0 +1,25 @@
+/* Google Font import */
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Share Tech Mono', monospace;
+  background-color: #003B00; /* Dark green background */
+  color: #B8FFC9; /* Soft greenish-white text */
+  line-height: 1.6;
+}
+
+h1, h2 {
+  color: #A6FF00; /* Bright green for headings */
+}
+
+p {
+  color: #B8FFC9;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
