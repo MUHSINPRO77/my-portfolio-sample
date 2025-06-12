@@ -38,9 +38,7 @@ function App() {
         <section style={{ marginTop: '40px' }}>
           <h2>About Me</h2>
           <p style={{ maxWidth: '600px', margin: '0 auto' }}>
-            I am currently a Lead Quality Inspector at SAMI Advanced Electronics.
-            I have a strong interest in new technologies and am an AI enthusiast.
-            I enjoy learning and exploring innovative tools and solutions.
+            I am Muhsin Thadathil Kandy, currently serving as a Lead Quality Inspector at SAMI Advanced Electronics. With a deep passion for electronics, artificial intelligence, and cutting-edge technologies, I am dedicated to ensuring the highest standards of quality and performance in every project I undertake. My role involves meticulous inspection processes, quality assurance, and leading teams to uphold industry-leading standards in electronic manufacturing. I continuously strive to enhance my technical expertise and leadership skills, aiming to transition into roles such as Quality Engineer or AI Architect in the near future.
           </p>
         </section>
       </div>
